@@ -60,7 +60,10 @@ uv pip install -r requirements.txt
    }
    ```
 
-   Note: You only need to add the API keys for the LLM providers you want to use. The server will skip any providers without configured API keys.
+   Notes:
+
+   1. You only need to add the API keys for the LLM providers you want to use. The server will skip any providers without configured API keys.
+   2. You may need to put the full path to the uv executable in the command field. You can get this by running `which uv` on MacOS/Linux or `where uv` on Windows.
 
 ## Using the MCP Server
 
