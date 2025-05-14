@@ -92,6 +92,8 @@ The server returns a dictionary with responses from each LLM provider:
 - API errors are caught and returned in the response
 - Each LLM's response is independent, so errors with one provider won't affect others
 
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/1f395e5c-f462-4250-8408-afd1ada852e5)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
