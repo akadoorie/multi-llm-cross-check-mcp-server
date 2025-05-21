@@ -1,5 +1,6 @@
 # Multi LLM Cross-Check MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@lior-ps/multi-llm-cross-check-mcp-server)](https://smithery.ai/server/@lior-ps/multi-llm-cross-check-mcp-server)
 A Model Control Protocol (MCP) server that allows cross-checking responses from multiple LLM providers simultaneously. This server integrates with Claude Desktop as an MCP server to provide a unified interface for querying different LLM APIs.
 
 ## Features
@@ -21,6 +22,15 @@ A Model Control Protocol (MCP) server that allows cross-checking responses from 
 
 ## Installation
 
+### Installing via Smithery
+
+To install Multi LLM Cross-Check Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@lior-ps/multi-llm-cross-check-mcp-server):
+
+```bash
+npx -y @smithery/cli install @lior-ps/multi-llm-cross-check-mcp-server --client claude
+```
+
+### Manual Installation
 1. Clone this repository:
 
 ```bash
