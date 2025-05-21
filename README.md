@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lior-ps-multi-llm-cross-check-mcp-server-badge.png)](https://mseep.ai/app/lior-ps-multi-llm-cross-check-mcp-server)
+
 # Multi LLM Cross-Check MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@lior-ps/multi-llm-cross-check-mcp-server)](https://smithery.ai/server/@lior-ps/multi-llm-cross-check-mcp-server)
